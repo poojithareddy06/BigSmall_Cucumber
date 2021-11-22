@@ -1,0 +1,14 @@
+15:42:17.912 [main] INFO  Runner.RunnerTest - Browser opened and fetched URL
+15:42:32.164 [main] INFO  Runner.RunnerTest - Login Successful
+15:42:45.421 [main] INFO  Runner.RunnerTest - Create Account - Successful
+15:42:56.682 [main] INFO  Runner.RunnerTest - Corporate Gift Enquiry Successful
+15:43:03.106 [main] INFO  Runner.RunnerTest - Personalized Gift page
+15:43:17.983 [main] INFO  Runner.RunnerTest - Customized the gifts and added to cart
+15:43:29.457 [main] INFO  Runner.RunnerTest - Wish List - Successful
+15:43:36.811 [main] INFO  Runner.RunnerTest - Cash On Delivery - Successful
+15:43:37.303 [main] INFO  Runner.RunnerTest - Add to Wishlist - Succesful
+15:43:41.016 [main] INFO  Runner.RunnerTest - Newletter Subscription Successful
+15:43:42.877 [main] INFO  Runner.RunnerTest - Going to click on About us
+15:43:45.053 [main] INFO  Runner.RunnerTest - clicked on about us
+15:43:48.664 [main] INFO  Runner.RunnerTest - Title is verified
+15:43:59.869 [main] INFO  Runner.RunnerTest - Product Search Successful
